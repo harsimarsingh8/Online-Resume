@@ -8,6 +8,8 @@
 * The resume you build will help you build some important skills.
 * This can be built by writing JavaScript that combined my personal information with pre-written HTML and CSS   templates to generate my resume.
 * We used basic JavaScript syntax, which includes manipulating data, building loops and creating functions.We also used some simple jQuery DOM manipulation methods to build resume the moment a user opens the website.
+* The live streaming of [project](https://harsimarsingh8.github.io/Online-Resume/P%204/index.html).
+* Project can be viewed at my [Github Repository](https://github.com/harsimarsingh8/Online-Resume).
 
 ------------------------------------------------------------
 # Project Details
